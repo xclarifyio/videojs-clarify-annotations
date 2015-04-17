@@ -1,0 +1,307 @@
+{
+  "_class": "SearchCollection",
+  "item_results": [{
+    "term_results": [{
+      "matches": [{
+        "field": "description",
+        "hits": [{
+          "start": 82,
+          "end": 91
+        }],
+        "type": "text"
+      }, {
+        "field": "tags",
+        "hits": [{
+          "start": 4
+        }],
+        "type": "array"
+      }, {
+        "track": 0,
+        "hits": [{
+          "start": 58,
+          "end": 58.66
+        }, {
+          "start": 62.26,
+          "end": 62.93
+        }, {
+          "start": 68.46,
+          "end": 69.03
+        }, {
+          "start": 90.68,
+          "end": 91.2
+        }, {
+          "start": 103.56,
+          "end": 103.88
+        }, {
+          "start": 115.35,
+          "end": 115.76
+        }, {
+          "start": 119.89,
+          "end": 120.44
+        }, {
+          "start": 140.75,
+          "end": 141.13
+        }, {
+          "start": 179.31,
+          "end": 179.82
+        }, {
+          "start": 185.29,
+          "end": 186
+        }, {
+          "start": 356.59,
+          "end": 357.09
+        }, {
+          "start": 363.13,
+          "end": 363.53
+        }, {
+          "start": 379.91,
+          "end": 380.27
+        }, {
+          "start": 511.64,
+          "end": 512.07
+        }, {
+          "start": 534.35,
+          "end": 534.81
+        }, {
+          "start": 556.59,
+          "end": 556.91
+        }, {
+          "start": 564.96,
+          "end": 565.54
+        }, {
+          "start": 568.01,
+          "end": 568.59
+        }, {
+          "start": 579.99,
+          "end": 580.49
+        }, {
+          "start": 663.55,
+          "end": 663.98
+        }, {
+          "start": 671.39,
+          "end": 671.91
+        }, {
+          "start": 711.46,
+          "end": 711.79
+        }, {
+          "start": 732.78,
+          "end": 733.31
+        }, {
+          "start": 772.17,
+          "end": 772.59
+        }, {
+          "start": 1080.29,
+          "end": 1080.79
+        }, {
+          "start": 1092.27,
+          "end": 1092.73
+        }, {
+          "start": 1135.71,
+          "end": 1136.08
+        }],
+        "type": "audio"
+      }],
+      "score": 0.931
+    }, {
+      "matches": [{
+        "field": "tags",
+        "hits": [{
+          "start": 0
+        }],
+        "type": "array"
+      }, {
+        "track": 0,
+        "hits": [{
+          "start": 124.53,
+          "end": 124.74
+        }, {
+          "start": 152.49,
+          "end": 152.84
+        }, {
+          "start": 368.25,
+          "end": 368.41
+        }, {
+          "start": 1092.87,
+          "end": 1093.27
+        }, {
+          "start": 1132.2,
+          "end": 1132.55
+        }],
+        "type": "audio"
+      }],
+      "score": 0.768
+    }],
+    "score": 1
+  }, {
+    "term_results": [{
+      "matches": [{
+        "track": 0,
+        "hits": [{
+          "start": 801.4,
+          "end": 801.92
+        }],
+        "type": "audio"
+      }],
+      "score": 0.009
+    }, {
+      "matches": [{
+        "track": 0,
+        "hits": [{
+          "start": 198.15,
+          "end": 198.46
+        }, {
+          "start": 201.57,
+          "end": 201.91
+        }, {
+          "start": 549.84,
+          "end": 550.17
+        }, {
+          "start": 553.49,
+          "end": 553.87
+        }, {
+          "start": 648.76,
+          "end": 649.23
+        }],
+        "type": "audio"
+      }],
+      "score": 0.015
+    }],
+    "score": 0.027
+  }, {
+    "term_results": [{
+      "matches": [{
+        "track": 0,
+        "hits": [{
+          "start": 384.42,
+          "end": 384.9
+        }],
+        "type": "audio"
+      }],
+      "score": 0.007
+    }, {
+      "matches": [{
+        "track": 0,
+        "hits": [{
+          "start": 111.82,
+          "end": 112.1
+        }],
+        "type": "audio"
+      }],
+      "score": 0.008
+    }],
+    "score": 0.022
+  }, {
+    "term_results": [{
+      "matches": [{
+        "track": 0,
+        "hits": [{
+          "start": 244.57,
+          "end": 245.12
+        }, {
+          "start": 1112.99,
+          "end": 1113.21
+        }],
+        "type": "audio"
+      }],
+      "score": 0.007
+    }, {
+      "matches": [{
+        "track": 0,
+        "hits": [{
+          "start": 661.66,
+          "end": 662.12
+        }],
+        "type": "audio"
+      }],
+      "score": 0.006
+    }],
+    "score": 0.018
+  }, {
+    "term_results": [{
+      "matches": [],
+      "score": 0
+    }, {
+      "matches": [{
+        "track": 0,
+        "hits": [{
+          "start": 230.24,
+          "end": 230.75
+        }, {
+          "start": 533.73,
+          "end": 534.14
+        }, {
+          "start": 1044.41,
+          "end": 1044.76
+        }],
+        "type": "audio"
+      }],
+      "score": 0.003
+    }],
+    "score": 0.007
+  }, {
+    "term_results": [{
+      "matches": [],
+      "score": 0
+    }, {
+      "matches": [{
+        "track": 0,
+        "hits": [{
+          "start": 1076.28,
+          "end": 1076.85
+        }, {
+          "start": 1078.42,
+          "end": 1078.7
+        }],
+        "type": "audio"
+      }],
+      "score": 0.003
+    }],
+    "score": 0.006
+  }, {
+    "term_results": [{
+      "matches": [{
+        "track": 0,
+        "hits": [{
+          "start": 572.8,
+          "end": 573.4
+        }],
+        "type": "audio"
+      }],
+      "score": 0.002
+    }, {
+      "matches": [],
+      "score": 0
+    }],
+    "score": 0.005
+  }],
+  "search_terms": [{
+    "term": "education"
+  }, {
+    "term": "children"
+  }],
+  "limit": 10,
+  "_links": {
+    "items": [{
+      "href": "/v1/bundles/785fbe6836b74e399bf7956ef239a14e"
+    }, {
+      "href": "/v1/bundles/6b07afb8acfd47b1b39ac0550cb359af"
+    }, {
+      "href": "/v1/bundles/2af507cb703d4b56b663058222cc4ddb"
+    }, {
+      "href": "/v1/bundles/06554967e5f5435080052e6a1e3b3f5d"
+    }, {
+      "href": "/v1/bundles/26ad5121bada44c39225ec623fb75e1a"
+    }, {
+      "href": "/v1/bundles/f2b3efac682441a1ab79f00f4636ee23"
+    }, {
+      "href": "/v1/bundles/efdfe444c7bd4f479275f50096a73ff3"
+    }],
+    "self": {
+      "href": "/v1/search?query=education%7Cchildren"
+    },
+    "first": {
+      "href": "/v1/search?query=education%7Cchildren&iterator=S10a47fbc8ef"
+    }
+  },
+  "total": 7
+}
