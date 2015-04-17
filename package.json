@@ -1,10 +1,15 @@
 {
   "name": "videojs-clarify-annotations",
   "version": "0.1.0",
-  "author": "mpazienza",
   "copyright": "Clarify, Inc.",
   "description": "A plugin for video.js with displays Clarify API search result annotations",
   "license": "MIT",
+  "homepage": "http://clarify.io",
+  "author": "mpazienza",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Clarify/videojs-clarify-annotations.git"
+  },
   "keywords": [
     "clarify",
     "search",
