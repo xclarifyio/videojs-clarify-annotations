@@ -137,7 +137,7 @@ After building, copy the files from the `dist` folder to your webserver.
 You may pass in an options object to the plugin upon initialization. This
 object may contain any of the following properties:
 
-#### showButton
+#### showButtons
 Type: `boolean`
 Default: true
 
