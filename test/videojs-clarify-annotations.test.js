@@ -1,5 +1,5 @@
 /*! videojs-clarify-annotations - v0.0.0 - 2015-3-10
- * Copyright (c) 2015 Clarify, Inc.
+ * Copyright (c) 2015 - 2016 Clarify, Inc.
  * Licensed under the MIT license. */
 (function(window, videojs, qunit, $) {
   'use strict';
